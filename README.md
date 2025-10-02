@@ -4,7 +4,7 @@ I'm a highly motivated HES Software Engineer with a passion for backend developm
 
   * 📍 Based in Aclens, Vaud, Switzerland
   * 💬 Fluent in French (Native), English (C1+), Italian (B2), and learning German (A2)
-  * 📫 How to reach me: [rachel@tranchida.ch](mailto:rachel@tranchida.ch) or on [LinkedIn](https://www.google.com/search?q=https://www.linkedin.com/in/your-profile-url) 
+  * 📫 How to reach me: [rachel@tranchida.ch](mailto:rachel@tranchida.ch) or on [LinkedIn](www.linkedin.com/in/rachel-tranchida-76a843219) 
 
 -----
 
