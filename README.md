@@ -17,7 +17,7 @@ I earned a top grade of **6/6** for my thesis, which involved architecting and d
   * **Frontend:** Created a user-friendly interface with Vue.js.
   * **DevOps:** The entire full-stack application is containerized with Docker
 
-[**[➡️ View Application on GitHub]** **|** **[➡️ View Data Pipeline on GitHub]** **|** **[➡️ Read the Full Report]** 
+[**[➡️ View Application on GitHub]([https://github.com/Sainane/books_processing](https://github.com/Sainane/book_recommendation))** **|** **[➡️ View Data Pipeline on GitHub](https://github.com/Sainane/books_processing)** **|** **[➡️ Read the Full Report](https://rachel.tranchida.ch/TB.pdf)** 
 
 -----
 
@@ -43,4 +43,4 @@ PostgreSQL, Redis, Neo4j, ElasticSearch, Couchbase
 ### 🤖 Another Noteworthy Project: Automated Chessboard
 This project, which won the **Best Project Award** and earned a grade of **6/6**, is a physical chessboard where pieces move autonomously. It allows a user to play against an AI via a touchscreen and is powered by a custom-designed 2-axis CNC mechanism and control PCB that I designed and manufactured.
 
-**[🎥 Watch the Project Video]**
+**[🎥 Watch the Project Video](https://youtu.be/jVd_H1JU5qY)**
